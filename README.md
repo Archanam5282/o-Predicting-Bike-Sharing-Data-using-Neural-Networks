@@ -7,7 +7,7 @@ In this project, you'll build your first neural network and use it to predict da
 
 2. Build the network
 
-3.Training the network
+3. Training the network
 
 4. Check out your predictions
 
